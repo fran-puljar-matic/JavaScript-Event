@@ -1,0 +1,1 @@
+alert("Slika se uspješno učitala. Kliknite OK za nastavak.");
